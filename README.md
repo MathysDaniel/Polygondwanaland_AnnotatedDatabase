@@ -24,9 +24,12 @@ This makes the album particularly suitable for the development and dissemination
 
 The combination of **musical complexity** and **open availability** makes *Polygondwanaland* an especially valuable case study for computational musicology and Music Information Retrieval.
 
-These aspects are discussed in greater detail in the associated publication:
+These aspects are discussed in greater detail in:
 
-**[Daniel, Mathys; Lascabettes, Paul; Andreatta, Moreno; Bloch, Isabelle — SMC 2026, Zagreb](https://hal.science/hal-05710365)**
+> **Daniel, Mathys; Lascabettes, Paul; Andreatta, Moreno; Bloch, Isabelle.**
+> *MUSICAL PATTERN DISCOVERY AT REGULAR TIME INTERVALS THROUGH MATHEMATICAL MORPHOLOGY: AN APPLICATION TO POLYMETRIC STRUCTURE ANALYSIS.*
+> **Proceedings of the Sound and Music Computing Conference (SMC 2026)**, Zagreb, 2026.
+> [HAL: hal-05710365](https://hal.science/hal-05710365)
 
 ---
 

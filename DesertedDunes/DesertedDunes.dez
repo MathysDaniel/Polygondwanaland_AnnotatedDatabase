@@ -1,0 +1,523 @@
+{
+  "labels": [
+    {
+      "type": "Meter",
+      "start": 0.0,
+      "ioi": 139.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Bass"
+    },
+    {
+      "type": "Meter",
+      "start": 168.0,
+      "ioi": 20.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Bass"
+    },
+    {
+      "type": "Meter",
+      "start": 189.0,
+      "ioi": 26.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Bass"
+    },
+    {
+      "type": "Meter",
+      "start": 217.0,
+      "ioi": 55.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Bass"
+    },
+    {
+      "type": "Meter",
+      "start": 273.0,
+      "ioi": 55.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Bass"
+    },
+    {
+      "type": "Meter",
+      "start": 357.0,
+      "ioi": 20.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Bass"
+    },
+    {
+      "type": "Meter",
+      "start": 378.0,
+      "ioi": 26.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Bass"
+    },
+    {
+      "type": "Meter",
+      "start": 462.0,
+      "ioi": 189.0,
+      "tag": 24.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Bass"
+    },
+    {
+      "type": "Meter",
+      "start": 28.0,
+      "ioi": 55.0,
+      "tag": 7.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 84.0,
+      "ioi": 55.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 140.0,
+      "ioi": 27.5,
+      "tag": 7.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 168.0,
+      "ioi": 20.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 189.0,
+      "ioi": 27.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 217.0,
+      "ioi": 55.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 273.0,
+      "ioi": 55.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 329.0,
+      "ioi": 27.5,
+      "tag": 7.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 357.0,
+      "ioi": 20.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 378.0,
+      "ioi": 27.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 465.5,
+      "ioi": 18.5,
+      "tag": 4.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 485.5,
+      "ioi": 22.5,
+      "tag": 4.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 509.5,
+      "ioi": 143.5,
+      "tag": 4.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Left"
+    },
+    {
+      "type": "Meter",
+      "start": 0.0,
+      "ioi": 29.75,
+      "tag": 2.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 29.75,
+      "ioi": 53.75,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 84.0,
+      "ioi": 55.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 140.0,
+      "ioi": 27.5,
+      "tag": 7.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 168.0,
+      "ioi": 20.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 192.5,
+      "ioi": 24.0,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 217.0,
+      "ioi": 55.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 273.0,
+      "ioi": 55.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 329.0,
+      "ioi": 27.5,
+      "tag": 7.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 357.0,
+      "ioi": 20.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 381.5,
+      "ioi": 24.0,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 461.5,
+      "ioi": 190.5,
+      "tag": 12.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Drums Right"
+    },
+    {
+      "type": "Meter",
+      "start": 28.0,
+      "ioi": 27.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar I"
+    },
+    {
+      "type": "Meter",
+      "start": 84.0,
+      "ioi": 53.5,
+      "tag": 14.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar I"
+    },
+    {
+      "type": "Meter",
+      "start": 217.0,
+      "ioi": 27.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar I"
+    },
+    {
+      "type": "Meter",
+      "start": 273.0,
+      "ioi": 53.5,
+      "tag": 14.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar I"
+    },
+    {
+      "type": "Meter",
+      "start": 28.0,
+      "ioi": 27.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar II"
+    },
+    {
+      "type": "Meter",
+      "start": 84.0,
+      "ioi": 53.5,
+      "tag": 14.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar II"
+    },
+    {
+      "type": "Meter",
+      "start": 140.0,
+      "ioi": 28.0,
+      "tag": 7.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar II"
+    },
+    {
+      "type": "Meter",
+      "start": 217.0,
+      "ioi": 27.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar II"
+    },
+    {
+      "type": "Meter",
+      "start": 273.0,
+      "ioi": 53.5,
+      "tag": 14.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar II"
+    },
+    {
+      "type": "Meter",
+      "start": 329.0,
+      "ioi": 28.0,
+      "tag": 7.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar II"
+    },
+    {
+      "type": "Meter",
+      "start": 28.0,
+      "ioi": 27.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar III"
+    },
+    {
+      "type": "Meter",
+      "start": 84.0,
+      "ioi": 53.5,
+      "tag": 14.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar III"
+    },
+    {
+      "type": "Meter",
+      "start": 217.0,
+      "ioi": 27.5,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar III"
+    },
+    {
+      "type": "Meter",
+      "start": 273.0,
+      "ioi": 53.5,
+      "tag": 14.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Guitar III"
+    },
+    {
+      "type": "Meter",
+      "start": 462.0,
+      "ioi": 236.5,
+      "tag": 3.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Intro Keys"
+    },
+    {
+      "type": "Meter",
+      "start": 402.5,
+      "ioi": 297.0,
+      "tag": 3.5,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Keys I"
+    },
+    {
+      "type": "Meter",
+      "start": 533.5,
+      "ioi": 167.5,
+      "tag": 24.0,
+      "layers": [
+        "predicted"
+      ],
+      "staff": "Keys III"
+    }
+  ],
+  "meta": {
+    "date": "2025-05-27T09:53:15.545833",
+    "producer": "YourAlgorithmName",
+    "title": "(4) Deserted Dunes Welcome Weary Feet",
+    "layout": [
+      {
+        "filter": {
+          "type": "Pattern",
+          "layers": [
+            "predicted"
+          ]
+        },
+        "style": {
+          "line": "top.1",
+          "color": "#33cc33"
+        }
+      }
+    ]
+  }
+}

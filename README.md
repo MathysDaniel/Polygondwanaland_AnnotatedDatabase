@@ -26,7 +26,7 @@ The combination of **musical complexity** and **open availability** makes *Polyg
 
 These aspects are discussed in greater detail in:
 
-> **Daniel, Mathys; Lascabettes, Paul; Andreatta, Moreno; Bloch, Isabelle.**
+> **Mathys DANIEL; Paul LASCABETTES; Moreno ANDREATTA; Isabelle BLOCH.**
 > *MUSICAL PATTERN DISCOVERY AT REGULAR TIME INTERVALS THROUGH MATHEMATICAL MORPHOLOGY: AN APPLICATION TO POLYMETRIC STRUCTURE ANALYSIS.*
 > **Proceedings of the Sound and Music Computing Conference (SMC 2026)**, Zagreb, 2026.
 > [HAL: hal-05710365](https://hal.science/hal-05710365)

@@ -17,7 +17,7 @@
     "image": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland.jpg",
     "license": "MIT (repository code and annotations), CC-BY-ND-3.0 (album audio, courtesy King Gizzard & The Lizard Wizard)",
     "quality:corpus": 1,
-    "quality:corpus:metadata": 1,
+    "quality:corpus:metadata": 2,
     "ref": "https://github.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase",
     "ref:wikipedia": "Polygondwanaland",
     "showcase": [
@@ -65,7 +65,7 @@
       "id": "polygondwanaland/{KEY}",
       "quality:annotation": "1",
       "quality:audio:synchro": "0",
-      "quality:audio": "1",
+      "quality:audio": "5",
       "quality:metadata": "1",
       "quality:musical-time": "1",
       "quality:score": "1"

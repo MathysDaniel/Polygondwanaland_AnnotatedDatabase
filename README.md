@@ -276,13 +276,22 @@ We would like to acknowledge:
 
 ## License
 
-The code and original material authored specifically for this repository are distributed under the terms of the **MIT License**, as indicated by the repository license.
+The code and original material authored specifically for this repository — including the `.dez` annotation files — are distributed under the terms of the **MIT License**, as indicated by the repository license.
 
-However, the repository also contains or provides links to third-party material, including audio and MIDI files. These materials remain subject to their respective authors' and rights holders' terms.
+However, the repository also contains or derives from third-party material, including audio and MIDI files. These materials remain subject to their respective authors' and rights holders' terms, summarized below.
 
-In particular, the open licensing of *Polygondwanaland* should not be interpreted as meaning that all material in this repository is automatically covered by the MIT License.
+In particular, the open licensing of *Polygondwanaland* should not be interpreted as meaning that all material in this repository is automatically covered by the MIT License. Users are responsible for respecting the applicable licenses and rights associated with third-party material.
 
-Users are responsible for respecting the applicable licenses and rights associated with third-party material.
+### License summary by file type
+
+| File type | Source | License | Notes |
+| --- | --- | --- | --- |
+| `.dez` (annotations) | Original work for this repository | **MIT** | Algorithmic + manual analyses by Mathys Daniel. |
+| `.mp3` (audio) | King Gizzard & The Lizard Wizard, *Polygondwanaland* (2017) | **CC BY-ND 3.0** | Official masters, released by the band for free reuse. Attribution: King Gizzard & The Lizard Wizard. [Official release](https://kinggizzardandthelizardwizard.com/polygondwanaland). ND ("No Derivatives") formally restricts redistribution of *adapted* versions of the audio under this license; only the unmodified masters are covered. |
+| `.mid` (MIDI) | 8-bit Escapades, *Polygondwanaland 8-bit* (2018) | **Unspecified / all rights reserved by default** | No explicit open license is published by 8-bit Escapades for this arrangement (see their [Bandcamp page](https://8-bitescapades.bandcamp.com/album/polygondwanaland)). |
+| `.mxl` / `.musicxml` (scores) | Transcription based on the MIDI (8-bit Escapades) and the original composition (King Gizzard & The Lizard Wizard) | **Not separately licensed** | As a derivative of both an ND-licensed composition and an unlicensed third-party arrangement, these transcriptions are not released under an independent license (e.g. CC BY-SA) by this repository. They are provided for research and analysis purposes; please contact the repository maintainer before other reuse. |
+
+If you plan to reuse any third-party material (audio, MIDI, or the scores derived from them) beyond research/analysis purposes, please refer to the original sources above and, where needed, seek clarification or permission from the respective rights holders.
 
 ---
 

@@ -10,8 +10,10 @@
       "maintainer": "Mathys Daniel <mathys.daniel@ircam.fr>"
     },
     "year": "2017",
-    "text": "*Polygondwanaland* is the twelfth studio album by Australian psychedelic rock band King Gizzard & The Lizard Wizard, released in November 2017. The album makes extensive use of polymetric structures, with several metric patterns coexisting and interacting throughout, making it a rich corpus for the study of musical structure, rhythm and meter. This annotated database was built as part of the PhD work of Mathys Daniel (IRMA, University of Strasbourg / LIP6, Sorbonne University), and is discussed in Daniel, Lascabettes, Andreatta & Bloch, *Musical Pattern Discovery at Regular Time Intervals Through Mathematical Morphology: An Application to Polymetric Structure Analysis*, SMC 2026 ([HAL hal-05710365](https://hal.science/hal-05710365)).",
-    "availability": "All 10 tracks of the album are provided with MP3 audio, MIDI (derived from an 8-bit cover by 8-bit Escapades), MusicXML symbolic scores, and Dezrann (.dez) structural annotations combining algorithmic and manual analysis.",
+
+    "text": "[Polygondwanaland](https://en.wikipedia.org/wiki/Polygondwanaland) is the twelfth studio album by Australian psychedelic rock band [King Gizzard & The Lizard Wizard](https://en.wikipedia.org/wiki/King_Gizzard_%26_the_Lizard_Wizard), released in 2017. The album makes extensive use of polymetric structures, with several metric patterns coexisting and interacting throughout, making it a rich corpus for the study of musical structure, rhythm, and meter [Daniel et al., SMC 2026](https://hal.science/hal-05710365)",
+    "availability": "This annotated database was built as part of the PhD work of Mathys Daniel (IRMA, University of Strasbourg / LIP6, Sorbonne University). All 10 tracks of the album are provided with audio, MIDI (derived from an 8-bit cover by 8-bit Escapades), symbolic scores, and structural annotations combining algorithmic and manual analysis. As of September 2026, the manual annotation is still ongoing.",
+
     "image": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland.jpg",
     "license": "MIT (repository code and annotations), CC-BY-ND-3.0 (album audio, courtesy King Gizzard & The Lizard Wizard)",
     "quality:corpus": 1,

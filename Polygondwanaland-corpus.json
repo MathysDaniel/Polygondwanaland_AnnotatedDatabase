@@ -34,7 +34,7 @@
     "Innercell":        { "opus": { "movement:num":  5, "title": "Inner Cell" } },
     "Loyalty":          { "opus": { "movement:num":  6, "title": "Loyalty" } },
     "Horology":         { "opus": { "movement:num":  7, "title": "Horology" } },
-    "Tetrachromacy":    { "opus": { "movement:num":  8, "title": "Tetrachromacy" } },
+    "Tetrachromacy":    { "opus": { "movement:num":  8, "key": "B minor", "title": "Tetrachromacy", "contributors" : { "composer": "Walker; Mackenzie; Cavanagh" } } },
     "Searchin":         { "opus": { "movement:num":  9, "title": "Searching..." } },
     "FourthColour":     { "opus": { "movement:num": 10, "title": "The Fourth Colour" } }
   },
@@ -64,6 +64,9 @@
       "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
       "collection": "Polygondwanaland",
       "id": "polygondwanaland/{KEY}",
+      "movement:title": "{title}",
+      "year": "2017",
+
       "quality:annotation": "1",
       "quality:audio:synchro": "0",
       "quality:audio": "5",

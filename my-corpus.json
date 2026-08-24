@@ -1,0 +1,72 @@
+{
+  "corpus": {
+    "id": "polygondwanaland",
+    "title": "Polygondwanaland",
+    "shorttitle": "Polygondwanaland",
+    "motto": "King Gizzard & The Lizard Wizard's 2017 polymetric concept album, annotated for structural analysis",
+    "contributors": {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "analyst": "Mathys Daniel",
+      "maintainer": "Mathys Daniel <mathys.daniel@ircam.fr>"
+    },
+    "year": "2017",
+    "text": "*Polygondwanaland* is the twelfth studio album by Australian psychedelic rock band King Gizzard & The Lizard Wizard, released in November 2017. The album makes extensive use of polymetric structures, with several metric patterns coexisting and interacting throughout, making it a rich corpus for the study of musical structure, rhythm and meter. This annotated database was built as part of the PhD work of Mathys Daniel (IRMA, University of Strasbourg / LIP6, Sorbonne University), and is discussed in Daniel, Lascabettes, Andreatta & Bloch, *Musical Pattern Discovery at Regular Time Intervals Through Mathematical Morphology: An Application to Polymetric Structure Analysis*, SMC 2026 ([HAL hal-05710365](https://hal.science/hal-05710365)).",
+    "availability": "All 10 tracks of the album are provided with MP3 audio, MIDI (derived from an 8-bit cover by 8-bit Escapades), MusicXML symbolic scores, and Dezrann (.dez) structural annotations combining algorithmic and manual analysis.",
+    "image": "",
+    "license": "MIT (repository code and annotations), CC-BY-ND-3.0 (album audio, courtesy King Gizzard & The Lizard Wizard)",
+    "quality:corpus": 1,
+    "quality:corpus:metadata": 1,
+    "ref": "https://github.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase",
+    "ref:wikipedia": "Polygondwanaland",
+    "showcase": [
+      "DesertedDunes",
+      "Searching",
+      "Innercell"
+    ]
+  },
+  "pieces": {
+    "CrumblingCastle": { "opus": { "title": "Crumbling Castle" } },
+    "Polygondwanaland": { "opus": { "title": "Polygondwanaland" } },
+    "CastleInTheAir": { "opus": { "title": "The Castle in the Air" } },
+    "DesertedDunes": { "opus": { "title": "Deserted Dunes Welcome Weary Feet" } },
+    "InnerCell": { "opus": { "title": "Inner Cell" } },
+    "Loyalty": { "opus": { "title": "Loyalty" } },
+    "Horology": { "opus": { "title": "Horology" } },
+    "Tetrachromacy": { "opus": { "title": "Tetrachromacy" } },
+    "Searching": { "opus": { "title": "Searching..." } },
+    "FourthColour": { "opus": { "title": "The Fourth Colour" } }
+  },
+  "settings": {
+    "access": "public"
+  },
+  "template": {
+    "opus": {
+      "..settings.analysis:default": "{KEY}.dez",
+
+      "..sources.0.score": "{base}/{KEY}/{KEY}.mxl",
+      "..sources.0.license": "",
+
+      "..sources.1.analysis": "{base}/{KEY}/{KEY}.dez",
+      "..sources.1.license": "MIT",
+      "..sources.1.contributors.analyst": "Mathys Daniel",
+
+      "..sources.2.audio": "{base}/{KEY}/{KEY}.mp3",
+      "..sources.2.license": "CC-BY-ND-3.0",
+      "..sources.2.contributors.artist": "King Gizzard & The Lizard Wizard",
+
+      "..sources.3.midi": "{base}/{KEY}/{KEY}.mid",
+      "..sources.3.info": "8-bit adaptation used as symbolic basis",
+      "..sources.3.contributors.transcriber": "8-bit Escapades",
+
+      "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+      "collection": "Polygondwanaland",
+      "id": "polygondwanaland/{KEY}",
+      "quality:annotation": "1",
+      "quality:audio:synchro": "0",
+      "quality:audio": "1",
+      "quality:metadata": "1",
+      "quality:musical-time": "1",
+      "quality:score": "1"
+    }
+  }
+}

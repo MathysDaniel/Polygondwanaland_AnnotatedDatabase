@@ -1,0 +1,544 @@
+{
+  "corpus": {
+    "availability": "This annotated database was built as part of the PhD work of Mathys Daniel (IRMA, University of Strasbourg / LIP6, Sorbonne University). All 10 tracks of the album are provided with audio, MIDI (derived from an 8-bit cover by 8-bit Escapades), symbolic scores, and structural annotations combining algorithmic and manual analysis. As of September 2026, the manual annotation is still ongoing.",
+    "contributors": {
+      "analyst": "Mathys Daniel",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "maintainer": "Mathys Daniel <mathys.daniel@ircam.fr>"
+    },
+    "id": "polygondwanaland",
+    "image": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland.jpg",
+    "license": "MIT (repository code and annotations), CC-BY-ND-3.0 (album audio, courtesy King Gizzard & The Lizard Wizard)",
+    "motto": "King Gizzard & The Lizard Wizard's 2017 polymetric concept album, annotated for structural analysis",
+    "quality:corpus": 1,
+    "quality:corpus:metadata": 2,
+    "ref": "https://github.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase",
+    "ref:wikipedia": "Polygondwanaland",
+    "shorttitle": "Polygondwanaland",
+    "showcase": [
+      "DesertedDunes",
+      "Searching",
+      "Innercell"
+    ],
+    "text": "[Polygondwanaland](https://en.wikipedia.org/wiki/Polygondwanaland) is the twelfth studio album by Australian psychedelic rock band [King Gizzard & The Lizard Wizard](https://en.wikipedia.org/wiki/King_Gizzard_%26_the_Lizard_Wizard), released in 2017. The album makes extensive use of polymetric structures, with several metric patterns coexisting and interacting throughout, making it a rich corpus for the study of musical structure, rhythm, and meter [Daniel et al., SMC 2026](https://hal.science/hal-05710365)",
+    "title": "Polygondwanaland",
+    "year": "2017"
+  },
+  "pieces": {
+    "CastleInTheAir": {
+      "opus": {
+        "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+        "collection": "Polygondwanaland",
+        "id": "polygondwanaland/CastleInTheAir",
+        "movement:num": 3,
+        "movement:title": "The Castle in the Air",
+        "quality:annotation": "1",
+        "quality:audio": "5",
+        "quality:audio:synchro": "0",
+        "quality:metadata": "1",
+        "quality:musical-time": "1",
+        "quality:score": "1",
+        "title": "The Castle in the Air",
+        "year": "2017"
+      },
+      "settings": {
+        "analysis:default": "CastleInTheAir.dez"
+      },
+      "sources": [
+        {
+          "license": "",
+          "score": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CastleInTheAir/CastleInTheAir.mxl"
+        },
+        {
+          "analysis": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CastleInTheAir/CastleInTheAir.dez",
+          "contributors": {
+            "analyst": "Mathys Daniel"
+          },
+          "license": "MIT"
+        },
+        {
+          "audio": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CastleInTheAir/CastleInTheAir.mp3",
+          "contributors": {
+            "artist": "King Gizzard & The Lizard Wizard"
+          },
+          "license": "CC-BY-ND-3.0",
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CastleInTheAir/CastleInTheAir.synchro.json"
+        },
+        {
+          "contributors": {
+            "transcriber": "8-bit Escapades"
+          },
+          "info": "8-bit adaptation used as symbolic basis",
+          "midi": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CastleInTheAir/CastleInTheAir.mid"
+        }
+      ]
+    },
+    "CrumblingCastle": {
+      "opus": {
+        "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+        "collection": "Polygondwanaland",
+        "id": "polygondwanaland/CrumblingCastle",
+        "movement:num": 1,
+        "movement:title": "Crumbling Castle",
+        "quality:annotation": "1",
+        "quality:audio": "5",
+        "quality:audio:synchro": "0",
+        "quality:metadata": "1",
+        "quality:musical-time": "1",
+        "quality:score": "1",
+        "title": "Crumbling Castle",
+        "year": "2017"
+      },
+      "settings": {
+        "analysis:default": "CrumblingCastle.dez"
+      },
+      "sources": [
+        {
+          "license": "",
+          "score": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CrumblingCastle/CrumblingCastle.mxl"
+        },
+        {
+          "analysis": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CrumblingCastle/CrumblingCastle.dez",
+          "contributors": {
+            "analyst": "Mathys Daniel"
+          },
+          "license": "MIT"
+        },
+        {
+          "audio": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CrumblingCastle/CrumblingCastle.mp3",
+          "contributors": {
+            "artist": "King Gizzard & The Lizard Wizard"
+          },
+          "license": "CC-BY-ND-3.0",
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CrumblingCastle/CrumblingCastle.synchro.json"
+        },
+        {
+          "contributors": {
+            "transcriber": "8-bit Escapades"
+          },
+          "info": "8-bit adaptation used as symbolic basis",
+          "midi": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CrumblingCastle/CrumblingCastle.mid"
+        }
+      ]
+    },
+    "DesertedDunes": {
+      "opus": {
+        "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+        "collection": "Polygondwanaland",
+        "id": "polygondwanaland/DesertedDunes",
+        "movement:num": 4,
+        "movement:title": "Deserted Dunes Welcome Weary Feet",
+        "quality:annotation": "1",
+        "quality:audio": "5",
+        "quality:audio:synchro": "0",
+        "quality:metadata": "1",
+        "quality:musical-time": "1",
+        "quality:score": "1",
+        "title": "Deserted Dunes Welcome Weary Feet",
+        "year": "2017"
+      },
+      "settings": {
+        "analysis:default": "DesertedDunes.dez"
+      },
+      "sources": [
+        {
+          "license": "",
+          "score": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/DesertedDunes/DesertedDunes.mxl"
+        },
+        {
+          "analysis": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/DesertedDunes/DesertedDunes.dez",
+          "contributors": {
+            "analyst": "Mathys Daniel"
+          },
+          "license": "MIT"
+        },
+        {
+          "audio": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/DesertedDunes/DesertedDunes.mp3",
+          "contributors": {
+            "artist": "King Gizzard & The Lizard Wizard"
+          },
+          "license": "CC-BY-ND-3.0",
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/DesertedDunes/DesertedDunes.synchro.json"
+        },
+        {
+          "contributors": {
+            "transcriber": "8-bit Escapades"
+          },
+          "info": "8-bit adaptation used as symbolic basis",
+          "midi": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/DesertedDunes/DesertedDunes.mid"
+        }
+      ]
+    },
+    "FourthColour": {
+      "opus": {
+        "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+        "collection": "Polygondwanaland",
+        "id": "polygondwanaland/FourthColour",
+        "movement:num": 10,
+        "movement:title": "The Fourth Colour",
+        "quality:annotation": "1",
+        "quality:audio": "5",
+        "quality:audio:synchro": "0",
+        "quality:metadata": "1",
+        "quality:musical-time": "1",
+        "quality:score": "1",
+        "title": "The Fourth Colour",
+        "year": "2017"
+      },
+      "settings": {
+        "analysis:default": "FourthColour.dez"
+      },
+      "sources": [
+        {
+          "license": "",
+          "score": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/FourthColour/FourthColour.mxl"
+        },
+        {
+          "analysis": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/FourthColour/FourthColour.dez",
+          "contributors": {
+            "analyst": "Mathys Daniel"
+          },
+          "license": "MIT"
+        },
+        {
+          "audio": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/FourthColour/FourthColour.mp3",
+          "contributors": {
+            "artist": "King Gizzard & The Lizard Wizard"
+          },
+          "license": "CC-BY-ND-3.0",
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/FourthColour/FourthColour.synchro.json"
+        },
+        {
+          "contributors": {
+            "transcriber": "8-bit Escapades"
+          },
+          "info": "8-bit adaptation used as symbolic basis",
+          "midi": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/FourthColour/FourthColour.mid"
+        }
+      ]
+    },
+    "Horology": {
+      "opus": {
+        "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+        "collection": "Polygondwanaland",
+        "id": "polygondwanaland/Horology",
+        "movement:num": 7,
+        "movement:title": "Horology",
+        "quality:annotation": "1",
+        "quality:audio": "5",
+        "quality:audio:synchro": "0",
+        "quality:metadata": "1",
+        "quality:musical-time": "1",
+        "quality:score": "1",
+        "title": "Horology",
+        "year": "2017"
+      },
+      "settings": {
+        "analysis:default": "Horology.dez"
+      },
+      "sources": [
+        {
+          "license": "",
+          "score": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Horology/Horology.mxl"
+        },
+        {
+          "analysis": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Horology/Horology.dez",
+          "contributors": {
+            "analyst": "Mathys Daniel"
+          },
+          "license": "MIT"
+        },
+        {
+          "audio": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Horology/Horology.mp3",
+          "contributors": {
+            "artist": "King Gizzard & The Lizard Wizard"
+          },
+          "license": "CC-BY-ND-3.0",
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Horology/Horology.synchro.json"
+        },
+        {
+          "contributors": {
+            "transcriber": "8-bit Escapades"
+          },
+          "info": "8-bit adaptation used as symbolic basis",
+          "midi": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Horology/Horology.mid"
+        }
+      ]
+    },
+    "Innercell": {
+      "opus": {
+        "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+        "collection": "Polygondwanaland",
+        "id": "polygondwanaland/Innercell",
+        "movement:num": 5,
+        "movement:title": "Inner Cell",
+        "quality:annotation": "1",
+        "quality:audio": "5",
+        "quality:audio:synchro": "0",
+        "quality:metadata": "1",
+        "quality:musical-time": "1",
+        "quality:score": "1",
+        "title": "Inner Cell",
+        "year": "2017"
+      },
+      "settings": {
+        "analysis:default": "Innercell.dez"
+      },
+      "sources": [
+        {
+          "license": "",
+          "score": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Innercell/Innercell.mxl"
+        },
+        {
+          "analysis": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Innercell/Innercell.dez",
+          "contributors": {
+            "analyst": "Mathys Daniel"
+          },
+          "license": "MIT"
+        },
+        {
+          "audio": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Innercell/Innercell.mp3",
+          "contributors": {
+            "artist": "King Gizzard & The Lizard Wizard"
+          },
+          "license": "CC-BY-ND-3.0",
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Innercell/Innercell.synchro.json"
+        },
+        {
+          "contributors": {
+            "transcriber": "8-bit Escapades"
+          },
+          "info": "8-bit adaptation used as symbolic basis",
+          "midi": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Innercell/Innercell.mid"
+        }
+      ]
+    },
+    "Loyalty": {
+      "opus": {
+        "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+        "collection": "Polygondwanaland",
+        "id": "polygondwanaland/Loyalty",
+        "movement:num": 6,
+        "movement:title": "Loyalty",
+        "quality:annotation": "1",
+        "quality:audio": "5",
+        "quality:audio:synchro": "0",
+        "quality:metadata": "1",
+        "quality:musical-time": "1",
+        "quality:score": "1",
+        "title": "Loyalty",
+        "year": "2017"
+      },
+      "settings": {
+        "analysis:default": "Loyalty.dez"
+      },
+      "sources": [
+        {
+          "license": "",
+          "score": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Loyalty/Loyalty.mxl"
+        },
+        {
+          "analysis": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Loyalty/Loyalty.dez",
+          "contributors": {
+            "analyst": "Mathys Daniel"
+          },
+          "license": "MIT"
+        },
+        {
+          "audio": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Loyalty/Loyalty.mp3",
+          "contributors": {
+            "artist": "King Gizzard & The Lizard Wizard"
+          },
+          "license": "CC-BY-ND-3.0",
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Loyalty/Loyalty.synchro.json"
+        },
+        {
+          "contributors": {
+            "transcriber": "8-bit Escapades"
+          },
+          "info": "8-bit adaptation used as symbolic basis",
+          "midi": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Loyalty/Loyalty.mid"
+        }
+      ]
+    },
+    "Polygondwanaland": {
+      "opus": {
+        "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+        "collection": "Polygondwanaland",
+        "id": "polygondwanaland/Polygondwanaland",
+        "movement:num": 2,
+        "movement:title": "Polygondwanaland",
+        "quality:annotation": "1",
+        "quality:audio": "5",
+        "quality:audio:synchro": "0",
+        "quality:metadata": "1",
+        "quality:musical-time": "1",
+        "quality:score": "1",
+        "title": "Polygondwanaland",
+        "year": "2017"
+      },
+      "settings": {
+        "analysis:default": "Polygondwanaland.dez"
+      },
+      "sources": [
+        {
+          "license": "",
+          "score": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland/Polygondwanaland.mxl"
+        },
+        {
+          "analysis": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland/Polygondwanaland.dez",
+          "contributors": {
+            "analyst": "Mathys Daniel"
+          },
+          "license": "MIT"
+        },
+        {
+          "audio": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland/Polygondwanaland.mp3",
+          "contributors": {
+            "artist": "King Gizzard & The Lizard Wizard"
+          },
+          "license": "CC-BY-ND-3.0",
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland/Polygondwanaland.synchro.json"
+        },
+        {
+          "contributors": {
+            "transcriber": "8-bit Escapades"
+          },
+          "info": "8-bit adaptation used as symbolic basis",
+          "midi": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland/Polygondwanaland.mid"
+        }
+      ]
+    },
+    "Searchin": {
+      "opus": {
+        "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+        "collection": "Polygondwanaland",
+        "id": "polygondwanaland/Searchin",
+        "movement:num": 9,
+        "movement:title": "Searching...",
+        "quality:annotation": "1",
+        "quality:audio": "5",
+        "quality:audio:synchro": "0",
+        "quality:metadata": "1",
+        "quality:musical-time": "1",
+        "quality:score": "1",
+        "title": "Searching...",
+        "year": "2017"
+      },
+      "settings": {
+        "analysis:default": "Searchin.dez"
+      },
+      "sources": [
+        {
+          "license": "",
+          "score": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Searchin/Searchin.mxl"
+        },
+        {
+          "analysis": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Searchin/Searchin.dez",
+          "contributors": {
+            "analyst": "Mathys Daniel"
+          },
+          "license": "MIT"
+        },
+        {
+          "audio": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Searchin/Searchin.mp3",
+          "contributors": {
+            "artist": "King Gizzard & The Lizard Wizard"
+          },
+          "license": "CC-BY-ND-3.0",
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Searchin/Searchin.synchro.json"
+        },
+        {
+          "contributors": {
+            "transcriber": "8-bit Escapades"
+          },
+          "info": "8-bit adaptation used as symbolic basis",
+          "midi": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Searchin/Searchin.mid"
+        }
+      ]
+    },
+    "Tetrachromacy": {
+      "opus": {
+        "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+        "collection": "Polygondwanaland",
+        "contributors": {
+          "composer": "Walker; Mackenzie; Cavanagh"
+        },
+        "id": "polygondwanaland/Tetrachromacy",
+        "key": "B minor",
+        "movement:num": 8,
+        "movement:title": "Tetrachromacy",
+        "quality:annotation": "1",
+        "quality:audio": "5",
+        "quality:audio:synchro": "0",
+        "quality:metadata": "1",
+        "quality:musical-time": "1",
+        "quality:score": "1",
+        "title": "Tetrachromacy",
+        "year": "2017"
+      },
+      "settings": {
+        "analysis:default": "Tetrachromacy.dez"
+      },
+      "sources": [
+        {
+          "license": "",
+          "score": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Tetrachromacy/Tetrachromacy.mxl"
+        },
+        {
+          "analysis": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Tetrachromacy/Tetrachromacy.dez",
+          "contributors": {
+            "analyst": "Mathys Daniel"
+          },
+          "license": "MIT"
+        },
+        {
+          "audio": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Tetrachromacy/Tetrachromacy.mp3",
+          "contributors": {
+            "artist": "King Gizzard & The Lizard Wizard"
+          },
+          "license": "CC-BY-ND-3.0",
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Tetrachromacy/Tetrachromacy.synchro.json"
+        },
+        {
+          "contributors": {
+            "transcriber": "8-bit Escapades"
+          },
+          "info": "8-bit adaptation used as symbolic basis",
+          "midi": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Tetrachromacy/Tetrachromacy.mid"
+        }
+      ]
+    }
+  },
+  "settings": {
+    "access": "public"
+  },
+  "template": {
+    "opus": {
+      "..settings.analysis:default": "{KEY}.dez",
+      "..sources.0.license": "",
+      "..sources.0.score": "{base}/{KEY}/{KEY}.mxl",
+      "..sources.1.analysis": "{base}/{KEY}/{KEY}.dez",
+      "..sources.1.contributors.analyst": "Mathys Daniel",
+      "..sources.1.license": "MIT",
+      "..sources.2.audio": "{base}/{KEY}/{KEY}.mp3",
+      "..sources.2.contributors.artist": "King Gizzard & The Lizard Wizard",
+      "..sources.2.license": "CC-BY-ND-3.0",
+      "..sources.2.synchro": "{base}/{KEY}/{KEY}.synchro.json",
+      "..sources.3.contributors.transcriber": "8-bit Escapades",
+      "..sources.3.info": "8-bit adaptation used as symbolic basis",
+      "..sources.3.midi": "{base}/{KEY}/{KEY}.mid",
+      "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
+      "collection": "Polygondwanaland",
+      "id": "polygondwanaland/{KEY}",
+      "movement:title": "{title}",
+      "quality:annotation": "1",
+      "quality:audio": "5",
+      "quality:audio:synchro": "0",
+      "quality:metadata": "1",
+      "quality:musical-time": "1",
+      "quality:score": "1",
+      "year": "2017"
+    }
+  }
+}

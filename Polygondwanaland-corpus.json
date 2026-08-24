@@ -53,6 +53,7 @@
       "..sources.1.contributors.analyst": "Mathys Daniel",
 
       "..sources.2.audio": "{base}/{KEY}/{KEY}.mp3",
+      "..sources.2.synchro": "{base}/{KEY}/{KEY}.synchro.json",
       "..sources.2.license": "CC-BY-ND-3.0",
       "..sources.2.contributors.artist": "King Gizzard & The Lizard Wizard",
 

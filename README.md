@@ -272,16 +272,6 @@ We would like to acknowledge:
 * **IRMA** and **LIP6**, for supporting the research within which this database was developed;
 * the **Dezrann** project, for providing a platform for the visualization and exploration of musical annotations.
 
----
-
-## License
-
-The code and original material authored specifically for this repository — including the `.dez` annotation files — are distributed under the terms of the **MIT License**, as indicated by the repository license.
-
-However, the repository also contains or derives from third-party material, including audio and MIDI files. These materials remain subject to their respective authors' and rights holders' terms, summarized below.
-
-In particular, the open licensing of *Polygondwanaland* should not be interpreted as meaning that all material in this repository is automatically covered by the MIT License. Users are responsible for respecting the applicable licenses and rights associated with third-party material.
-
 ### License summary by file type
 
 | File type | Source | License | Notes |

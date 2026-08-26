@@ -18,7 +18,7 @@ This extensive use of polymetry provides an especially interesting challenge for
 
 ### 2. An openly available album
 
-A second major advantage of *Polygondwanaland* as a research corpus is its **open licensing**. The album was released by King Gizzard & The Lizard Wizard under a **Creative Commons license**, allowing it to be freely shared and reused under the conditions of that license.
+A second major advantage of *Polygondwanaland* as a research corpus is its **open licensing**. The album was released by King Gizzard & The Lizard Wizard under a **CC BY-ND 3.0 license**, allowing it to be freely shared and reused under the conditions of that license.
 
 This makes the album particularly suitable for the development and dissemination of an open research corpus, while facilitating the reproducibility and accessibility of research results.
 

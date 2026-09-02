@@ -27,16 +27,16 @@
     ]
   },
   "pieces": {
-    "CrumblingCastle":  { "opus": { "movement:num":  1, "title": "Crumbling Castle" } },
-    "Polygondwanaland": { "opus": { "movement:num":  2, "title": "Polygondwanaland" } },
-    "CastleInTheAir":   { "opus": { "movement:num":  3, "title": "The Castle in the Air" } },
-    "DesertedDunes":    { "opus": { "movement:num":  4, "title": "Deserted Dunes Welcome Weary Feet" } },
-    "Innercell":        { "opus": { "movement:num":  5, "title": "Inner Cell" } },
-    "Loyalty":          { "opus": { "movement:num":  6, "title": "Loyalty" } },
-    "Horology":         { "opus": { "movement:num":  7, "title": "Horology" } },
-    "Tetrachromacy":    { "opus": { "movement:num":  8, "key": "B minor", "title": "Tetrachromacy", "contributors" : { "composer": "Walker; Mackenzie; Cavanagh" } } },
-    "Searchin":         { "opus": { "movement:num":  9, "title": "Searching..." } },
-    "FourthColour":     { "opus": { "movement:num": 10, "title": "The Fourth Colour" } }
+    "CrumblingCastle":  { "opus": { "movement:num":  1, "meter": "7/8, ...", "title": "Crumbling Castle", "contributors" : { "composer": "Stu; Mackenzie" } } },
+    "Polygondwanaland": { "opus": { "movement:num":  2, "meter": "10/8", "key": "B major",  "title": "Polygondwanaland",  "contributors" : { "composer": "Mackenzie" } } },
+    "CastleInTheAir":   { "opus": { "movement:num":  3, "meter": "3/4", "key": "B minor", "title": "The Castle in the Air", "contributors" : { "composer": "Mackenzie; Walker" } } },
+    "DesertedDunes":    { "opus": { "movement:num":  4, "meter": "7/8, ...", "key": "A major", "title": "Deserted Dunes Welcome Weary Feet", "contributors" : { "composer": "Cavanagh; Mackenzie; Walker" } } },
+    "Innercell":        { "opus": { "movement:num":  5, "meter": "5/8", "title": "Inner Cell", "contributors" : { "composer": "Cavanagh; Mackenzie; Walker" } } },
+    "Loyalty":          { "opus": { "movement:num":  6, "meter": "5/8, 11/8, 7/8", "title": "Loyalty", "contributors" : { "composer": "Cavanagh; Mackenzie; Walker" } } },
+    "Horology":         { "opus": { "movement:num":  7, "meter": "7/8", "key": "B minor","title": "Horology", "contributors" : { "composer": "Cavanagh; Mackenzie; Walker" } } },
+    "Tetrachromacy":    { "opus": { "movement:num":  8, "meter": "3/4", "key": "B minor", "title": "Tetrachromacy", "contributors" : { "composer": "Cavanagh; Mackenzie; Walker" } } },
+    "Searchin":         { "opus": { "movement:num":  9, "meter": "3/4", "title": "Searching...", "contributors" : { "composer": "Mackenzie" } } },
+    "FourthColour":     { "opus": { "movement:num": 10, "meter": "3/4", "title": "The Fourth Colour", "contributors" : { "composer": "Mackenzie" } } }
   },
   "settings": {
     "access": "public"

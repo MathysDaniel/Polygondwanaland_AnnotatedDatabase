@@ -16,9 +16,8 @@
     "ref:wikipedia": "Polygondwanaland",
     "shorttitle": "Polygondwanaland",
     "showcase": [
-      "DesertedDunes",
-      "Searching",
-      "Innercell"
+      "Polygondwanaland",
+      "Tetrachromacy"
     ],
     "text": "[Polygondwanaland](https://en.wikipedia.org/wiki/Polygondwanaland) is the twelfth studio album by Australian psychedelic rock band [King Gizzard & The Lizard Wizard](https://en.wikipedia.org/wiki/King_Gizzard_%26_the_Lizard_Wizard), released in 2017. The album makes extensive use of polymetric structures, with several metric patterns coexisting and interacting throughout, making it a rich corpus for the study of musical structure, rhythm, and meter [Daniel et al., SMC 2026](https://hal.science/hal-05710365)",
     "title": "Polygondwanaland",
@@ -29,7 +28,12 @@
       "opus": {
         "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
         "collection": "Polygondwanaland",
+        "contributors": {
+          "composer": "Mackenzie; Walker"
+        },
         "id": "polygondwanaland/CastleInTheAir",
+        "key": "B minor",
+        "meter": "3/4",
         "movement:num": 3,
         "movement:title": "The Castle in the Air",
         "quality:annotation": "1",
@@ -62,7 +66,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CastleInTheAir/CastleInTheAir.synchro.json"
+          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CastleInTheAir/CastleInTheAir.synchro.json"
         },
         {
           "contributors": {
@@ -77,7 +81,11 @@
       "opus": {
         "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
         "collection": "Polygondwanaland",
+        "contributors": {
+          "composer": "Stu; Mackenzie"
+        },
         "id": "polygondwanaland/CrumblingCastle",
+        "meter": "7/8, ...",
         "movement:num": 1,
         "movement:title": "Crumbling Castle",
         "quality:annotation": "1",
@@ -110,7 +118,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CrumblingCastle/CrumblingCastle.synchro.json"
+          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CrumblingCastle/CrumblingCastle.synchro.json"
         },
         {
           "contributors": {
@@ -125,7 +133,12 @@
       "opus": {
         "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
         "collection": "Polygondwanaland",
+        "contributors": {
+          "composer": "Cavanagh; Mackenzie; Walker"
+        },
         "id": "polygondwanaland/DesertedDunes",
+        "key": "A major",
+        "meter": "7/8, ...",
         "movement:num": 4,
         "movement:title": "Deserted Dunes Welcome Weary Feet",
         "quality:annotation": "1",
@@ -158,7 +171,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/DesertedDunes/DesertedDunes.synchro.json"
+          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/DesertedDunes/DesertedDunes.synchro.json"
         },
         {
           "contributors": {
@@ -173,7 +186,11 @@
       "opus": {
         "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
         "collection": "Polygondwanaland",
+        "contributors": {
+          "composer": "Mackenzie"
+        },
         "id": "polygondwanaland/FourthColour",
+        "meter": "3/4",
         "movement:num": 10,
         "movement:title": "The Fourth Colour",
         "quality:annotation": "1",
@@ -206,7 +223,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/FourthColour/FourthColour.synchro.json"
+          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/FourthColour/FourthColour.synchro.json"
         },
         {
           "contributors": {
@@ -221,7 +238,12 @@
       "opus": {
         "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
         "collection": "Polygondwanaland",
+        "contributors": {
+          "composer": "Cavanagh; Mackenzie; Walker"
+        },
         "id": "polygondwanaland/Horology",
+        "key": "B minor",
+        "meter": "7/8",
         "movement:num": 7,
         "movement:title": "Horology",
         "quality:annotation": "1",
@@ -254,7 +276,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Horology/Horology.synchro.json"
+          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Horology/Horology.synchro.json"
         },
         {
           "contributors": {
@@ -269,7 +291,11 @@
       "opus": {
         "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
         "collection": "Polygondwanaland",
+        "contributors": {
+          "composer": "Cavanagh; Mackenzie; Walker"
+        },
         "id": "polygondwanaland/Innercell",
+        "meter": "5/8",
         "movement:num": 5,
         "movement:title": "Inner Cell",
         "quality:annotation": "1",
@@ -302,7 +328,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Innercell/Innercell.synchro.json"
+          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Innercell/Innercell.synchro.json"
         },
         {
           "contributors": {
@@ -317,7 +343,11 @@
       "opus": {
         "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
         "collection": "Polygondwanaland",
+        "contributors": {
+          "composer": "Cavanagh; Mackenzie; Walker"
+        },
         "id": "polygondwanaland/Loyalty",
+        "meter": "5/8, 11/8, 7/8",
         "movement:num": 6,
         "movement:title": "Loyalty",
         "quality:annotation": "1",
@@ -350,7 +380,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Loyalty/Loyalty.synchro.json"
+          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Loyalty/Loyalty.synchro.json"
         },
         {
           "contributors": {
@@ -365,7 +395,12 @@
       "opus": {
         "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
         "collection": "Polygondwanaland",
+        "contributors": {
+          "composer": "Mackenzie"
+        },
         "id": "polygondwanaland/Polygondwanaland",
+        "key": "B major",
+        "meter": "10/8",
         "movement:num": 2,
         "movement:title": "Polygondwanaland",
         "quality:annotation": "1",
@@ -377,6 +412,7 @@
         "title": "Polygondwanaland",
         "year": "2017"
       },
+      "quality:audio:synchro": 3,
       "settings": {
         "analysis:default": "Polygondwanaland.dez"
       },
@@ -398,7 +434,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland/Polygondwanaland.synchro.json"
+          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland/Polygondwanaland.synchro.json"
         },
         {
           "contributors": {
@@ -413,7 +449,11 @@
       "opus": {
         "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
         "collection": "Polygondwanaland",
+        "contributors": {
+          "composer": "Mackenzie"
+        },
         "id": "polygondwanaland/Searchin",
+        "meter": "3/4",
         "movement:num": 9,
         "movement:title": "Searching...",
         "quality:annotation": "1",
@@ -446,7 +486,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Searchin/Searchin.synchro.json"
+          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Searchin/Searchin.synchro.json"
         },
         {
           "contributors": {
@@ -462,10 +502,11 @@
         "base": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main",
         "collection": "Polygondwanaland",
         "contributors": {
-          "composer": "Walker; Mackenzie; Cavanagh"
+          "composer": "Cavanagh; Mackenzie; Walker"
         },
         "id": "polygondwanaland/Tetrachromacy",
         "key": "B minor",
+        "meter": "3/4",
         "movement:num": 8,
         "movement:title": "Tetrachromacy",
         "quality:annotation": "1",
@@ -477,6 +518,7 @@
         "title": "Tetrachromacy",
         "year": "2017"
       },
+      "quality:audio:synchro": 3,
       "settings": {
         "analysis:default": "Tetrachromacy.dez"
       },
@@ -498,7 +540,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Tetrachromacy/Tetrachromacy.synchro.json"
+          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Tetrachromacy/Tetrachromacy.synchro.json"
         },
         {
           "contributors": {
@@ -524,7 +566,7 @@
       "..sources.2.audio": "{base}/{KEY}/{KEY}.mp3",
       "..sources.2.contributors.artist": "King Gizzard & The Lizard Wizard",
       "..sources.2.license": "CC-BY-ND-3.0",
-      "..sources.2.synchro": "{base}/{KEY}/{KEY}.synchro.json",
+      "..sources.2.xxxsynchro": "{base}/{KEY}/{KEY}.synchro.json",
       "..sources.3.contributors.transcriber": "8-bit Escapades",
       "..sources.3.info": "8-bit adaptation used as symbolic basis",
       "..sources.3.midi": "{base}/{KEY}/{KEY}.mid",

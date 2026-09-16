@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "date": "2026-09-16T09:14:47.866268",
+    "producer": "RIPDA",
+    "title": "(10) The Fourth Colour",
+    "layout": [
+      {
+        "filter": {
+          "type": "Pattern",
+          "layers": [
+            "predicted"
+          ]
+        },
+        "style": {
+          "line": "top.1",
+          "color": "#33cc33"
+        }
+      }
+    ]
+  }
+}

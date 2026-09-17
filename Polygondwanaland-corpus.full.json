@@ -66,7 +66,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CastleInTheAir/CastleInTheAir.synchro.json"
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CastleInTheAir/CastleInTheAir.synchro.json"
         },
         {
           "contributors": {
@@ -118,7 +118,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CrumblingCastle/CrumblingCastle.synchro.json"
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/CrumblingCastle/CrumblingCastle.synchro.json"
         },
         {
           "contributors": {
@@ -171,7 +171,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/DesertedDunes/DesertedDunes.synchro.json"
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/DesertedDunes/DesertedDunes.synchro.json"
         },
         {
           "contributors": {
@@ -223,7 +223,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/FourthColour/FourthColour.synchro.json"
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/FourthColour/FourthColour.synchro.json"
         },
         {
           "contributors": {
@@ -276,7 +276,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Horology/Horology.synchro.json"
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Horology/Horology.synchro.json"
         },
         {
           "contributors": {
@@ -328,7 +328,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Innercell/Innercell.synchro.json"
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Innercell/Innercell.synchro.json"
         },
         {
           "contributors": {
@@ -380,7 +380,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Loyalty/Loyalty.synchro.json"
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Loyalty/Loyalty.synchro.json"
         },
         {
           "contributors": {
@@ -412,7 +412,6 @@
         "title": "Polygondwanaland",
         "year": "2017"
       },
-      "quality:audio:synchro": 3,
       "settings": {
         "analysis:default": "Polygondwanaland.dez"
       },
@@ -434,7 +433,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland/Polygondwanaland.synchro.json"
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Polygondwanaland/Polygondwanaland.synchro.json"
         },
         {
           "contributors": {
@@ -486,7 +485,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Searchin/Searchin.synchro.json"
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Searchin/Searchin.synchro.json"
         },
         {
           "contributors": {
@@ -518,7 +517,6 @@
         "title": "Tetrachromacy",
         "year": "2017"
       },
-      "quality:audio:synchro": 3,
       "settings": {
         "analysis:default": "Tetrachromacy.dez"
       },
@@ -540,7 +538,7 @@
             "artist": "King Gizzard & The Lizard Wizard"
           },
           "license": "CC-BY-ND-3.0",
-          "xxxsynchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Tetrachromacy/Tetrachromacy.synchro.json"
+          "synchro": "https://raw.githubusercontent.com/MathysDaniel/Polygondwanaland_AnnotatedDatabase/main/Tetrachromacy/Tetrachromacy.synchro.json"
         },
         {
           "contributors": {
@@ -566,7 +564,7 @@
       "..sources.2.audio": "{base}/{KEY}/{KEY}.mp3",
       "..sources.2.contributors.artist": "King Gizzard & The Lizard Wizard",
       "..sources.2.license": "CC-BY-ND-3.0",
-      "..sources.2.xxxsynchro": "{base}/{KEY}/{KEY}.synchro.json",
+      "..sources.2.synchro": "{base}/{KEY}/{KEY}.synchro.json",
       "..sources.3.contributors.transcriber": "8-bit Escapades",
       "..sources.3.info": "8-bit adaptation used as symbolic basis",
       "..sources.3.midi": "{base}/{KEY}/{KEY}.mid",
